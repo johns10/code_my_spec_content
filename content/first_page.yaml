@@ -3,7 +3,7 @@
 
 # Required fields
 slug: first_page
-content_type: page  # Options: blog, page, landing
+type: page  # Options: blog, page, landing
 title: My First Page
 
 # Publishing control
