@@ -102,23 +102,7 @@ defp deps do
     # CodeMySpec-specific dependencies
     {:file_system, "~> 1.0"},
     {:ngrok, git: "https://github.com/johns10/ex_ngrok", branch: "main", only: [:dev]},
-    {:exunit_json_formatter, git: "https://github.com/johns10/exunit_json_formatter", branch: "master"},
-
-    # Other CodeMySpec dependencies
-    {:mox, "~> 1.2"},
-    {:paper_trail, "~> 1.1"},
-    {:hermes_mcp, "~> 0.14"},
-    {:oban, "~> 2.19.4"},
-    {:briefly, "~> 0.5.1"},
-    {:ex_oauth2_provider, "~> 0.5.7"},
-    {:earmark, "~> 1.4"},
-    {:floki, "~> 0.38"},
-    {:yaml_elixir, "~> 2.11"},
-    {:faker, "~> 0.18", only: :test},
-    {:dir_walker, "~> 0.0.8"},
-    {:assent, "~> 0.3.1"},
-    {:cloak_ecto, "~> 1.3.0"},
-    {:git_cli, "~> 0.3.0"}
+    {:exunit_json_formatter, git: "https://github.com/johns10/exunit_json_formatter", branch: "master"}
   ]
 end
 ```

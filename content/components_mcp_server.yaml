@@ -13,7 +13,7 @@ expires_at: null  # ISO 8601 datetime or null for never expires
 
 # SEO Metadata
 meta_title: Components MCP Server - AI Phoenix Architect | CodeMySpec
-meta_description: Documentation for CodeMySpec's Components MCP Server that enables Claude Code to design Phoenix contexts, manage dependencies, and analyze architectural health for Elixir applications.
+meta_description: MCP Server helps design contexts, dependencies, and analyze architectural health for Elixir applications.
 og_title: Components MCP Server - AI Software Architect
 og_description: Design clean Phoenix architecture with AI-guided context design, dependency management, and health monitoring
 og_image: null  # URL to Open Graph image
